@@ -1,0 +1,1 @@
+void DrawBmp(int OffSet);
